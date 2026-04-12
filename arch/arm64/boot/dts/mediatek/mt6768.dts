@@ -101,7 +101,7 @@ page_owner=on loop.max_part=7";
 			opp-microvolt = <931250>;
 		};
 		opp15 {
-			opp-hz = /bits/ 64 <1800000000>;
+			opp-hz = /bits/ 64 <1900000000>;
 			opp-microvolt = <962500>;
 		};
 	};
